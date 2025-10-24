@@ -1,3 +1,30 @@
+# User Profile Management System
+
+A modern, responsive user profile management application built with React.js
+
+## Features
+
+- 👥 User Management (Create, Read, Update, Delete)
+- 📸 Profile Picture Upload
+- 📄 Resume Upload
+- 💾 Local Storage Persistence
+- 🌍 International Phone Numbers with Country Flags
+- 🎨 Modern Glassmorphism UI
+- 📱 Fully Responsive Design
+- ⚡ Real-time Updates
+- 🔍 Interactive User Interface
+
+## Tech Stack
+
+- React 18
+- TailwindCSS
+- LocalStorage API
+- Modern JavaScript (ES6+)
+
+## Installation
+
+1. Clone the repository:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
